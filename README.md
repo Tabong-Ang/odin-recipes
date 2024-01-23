@@ -1,2 +1,2 @@
 # odin-recipes
-This is my first project and I can't really explain what it is all about but I presume it will be a website
+This is my first project on three different traditional dish recipes commonly found in the SouthWest Region of Cameroon
